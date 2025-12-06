@@ -1,4 +1,4 @@
-# 🎓 Face-Based Student Verification for Sathyabama ERP (Demo)
+#  Face-Based Student Verification for Sathyabama ERP (Demo)
 
 A lightweight **face verification system** that helps college staff verify whether a student is genuine or using a **fake ID**, by matching a face photo with registered student records.
 
@@ -70,7 +70,7 @@ This is a **demo project** built as a proof-of-concept for integrating **face id
 ```bash
 .
 ├── main.py             # FastAPI app - routes, DB logic, face verification
-├── students.db         # SQLite database (auto-created on first run)
+├── students.db         # SQLite database 
 ├── static/
 │   └── images/         # Stored student & verification photos
 └── README.md           # Project documentation
