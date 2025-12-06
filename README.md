@@ -74,3 +74,13 @@ This is a **demo project** built as a proof-of-concept for integrating **face id
 ├── static/
 │   └── images/         # Stored student & verification photos
 └── README.md           # Project documentation
+## Output Demonstration
+
+### Home Page
+![Home](screenshots/home_page.png)
+
+### Add Student Page
+![Add Student](screenshots/add_student.png)
+
+### Verification Result
+![Verify](screenshots/verify_match.png)
